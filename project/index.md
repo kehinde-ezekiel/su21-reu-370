@@ -16,7 +16,7 @@ resources:
 Status: draft, Type: Project
 
 
-Firstname Lastname, [su21-reu-370](https://github.com/cybertraining-dsc/su21-reu-370), [Edit](https://github.com/cybertraining-dsc/su21-reu-370/blob/main/project/index.md)
+Kehinde Ezekiel, [su21-reu-370](https://github.com/cybertraining-dsc/su21-reu-370), [Edit](https://github.com/cybertraining-dsc/su21-reu-370/blob/main/project/index.md)
 
 {{% pageinfo %}}
 
