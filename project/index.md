@@ -1,6 +1,6 @@
 ---
 date: 2021-06-16
-title: "Project: This is the Descriptive Title of the Example"
+title: "Health Disparities Analysis"
 linkTitle: Example
 tags: ["project", "reu"]
 description: "Here comes the abstract"
@@ -34,14 +34,8 @@ Contents
 
 ## 1. Introduction
 
-Do not include this tip in your document:
-
-> Tip: Please note that an up to date version of these instructions is available at
->
-> * <https://github.com/cybertraining-dsc/hid-example/blob/main/project/index.md>
 
 
-Here comes a convincing introduction to the problem
 
 ## 2. Report Format
 
@@ -72,9 +66,10 @@ We do not ignore proper markdown while using empty lines between context changes
 ```
 
 ## 2.1. GitHub Actions
+Description about my datasets
 
-When going to GitHub Actions you will see a report is autmatically generated with some help on improving your markdown. 
-We will not review any document that does not pass this check.
+##Other people works
+research that othe rpeople have done with the dataset
 
 ## 2.2. PAst Copy from Word or other Editors is a Disaster!
 
